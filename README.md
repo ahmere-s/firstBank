@@ -1,4 +1,4 @@
-# firstBank :money: 
+# firstBank :bank: 
 A simple banking system demonstrating account management, transaction processing, and object-oriented design in C++. This project models a bank that manages multiple accounts and processes deposits, withdrawals, and transfers between them.
 
 ## Overview
